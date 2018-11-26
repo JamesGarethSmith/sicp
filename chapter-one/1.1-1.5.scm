@@ -1,2 +1,3 @@
-#!/usr/bin/guile -s !#
-(def test x y)
+#!/usr/bin/guile -s 
+!#
+(display "test")
